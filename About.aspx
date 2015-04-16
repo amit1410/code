@@ -15,7 +15,10 @@
             Use this area to provide additional information.
         </p>
 
-            </article>
+        <p>        
+            Use this area to provide additional information.
+        </p>
+    </article>
 
     <aside>
         <h3>Aside Title</h3>
